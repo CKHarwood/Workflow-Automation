@@ -1,0 +1,17 @@
+{
+  "name": "HRS Reporting Tools",
+  "description": "HRS Easy Access to Reports and Tools",
+  "version": "1",
+  "app": {
+    "urls": [
+      "https://admin.engr.wisc.edu/heart/"
+    ],
+    "launch": {
+      "web_url": "https://admin.engr.wisc.edu/heart/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  },
+  "permissions": ["notifications"]
+}

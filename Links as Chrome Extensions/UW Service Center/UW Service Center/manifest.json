@@ -1,0 +1,16 @@
+{
+  "name": "UW-Madison Service Center",
+  "description": "UW-Madison Human Resources news, information, forms, and links to HRS",
+  "version": "1",
+  "app": {
+    "urls": [
+      "https://uwservice.wisc.edu/administration/index.php"
+    ],
+    "launch": {
+      "web_url": "https://uwservice.wisc.edu/administration/index.php"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

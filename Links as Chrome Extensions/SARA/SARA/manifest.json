@@ -1,0 +1,16 @@
+{
+  "name": "Student Academic Record Administration",
+  "description": "Graduate student academic records",
+  "version": "1",
+  "app": {
+    "urls": [
+      "https://admiss.gradsch.wisc.edu/cgi-bin/sara/sra.cgi"
+    ],
+    "launch": {
+      "web_url": "https://admiss.gradsch.wisc.edu/cgi-bin/sara/sra.cgi"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
