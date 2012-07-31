@@ -1,0 +1,13 @@
+[ ] todo
+[ ]todotypo
+[x] done
+[?] question
+[-] ignore
+[ ] todoparent
+	[ ] subtodo
+	[ ]subtodotypo
+	[x] subdone
+	[?] subquestion
+	[-] subignore
+[ ] postsubtodo
+[ ] anothertodo
