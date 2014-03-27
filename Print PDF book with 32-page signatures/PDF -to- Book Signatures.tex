@@ -1,5 +1,20 @@
 \documentclass{article}
 \usepackage{pdfpages}
 \begin{document}
+
+% includepdf arguments:
+%  In square brackets:
+%    signature = Number of pages per signature (or per block)
+%    pages = 
+%    'landscape' (or 'portrait') for layout on sheet
+%    delta=x y for page offset (determines final page margins)
+%  {path/to/filename.pdf}
+
 \includepdf[signature=32,pages=-,landscape,delta=0 50]{/Users/Administrator/Desktop/filename.pdf}
+
+% 32 page signature = 8 double-sided sheets per signature
+%  - Use this setting when stitching or otherwise binding blocks
+% 4 page signature = 1 double-sided sheet per signature
+%  - These signatures can be glue-bound
+
 \end{document}
