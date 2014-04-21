@@ -10,11 +10,13 @@
 %    delta=x y for page offset (determines final page margins)
 %  {path/to/filename.pdf}
 
-\includepdf[signature=32,pages=-,landscape,delta=0 50]{/Users/Administrator/Desktop/filename.pdf}
-
+% Update the SIGNATURE argument as needed!
 % 32 page signature = 8 double-sided sheets per signature
 %  - Use this setting when stitching or otherwise binding blocks
 % 4 page signature = 1 double-sided sheet per signature
 %  - These signatures can be glue-bound
+
+\includepdf[signature=4,pages=-,landscape,delta=0 50]{/Users/Administrator/Desktop/filename.pdf}
+
 
 \end{document}
