@@ -1,17 +1,5 @@
-<p>
-  <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">
-    <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" />
-  </a><br />
-  All work in this repository by 
-    <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.christopherharwood.com" property="cc:attributionName" rel="cc:attributionURL">
-      Christopher Harwood
-    </a>
-  is licensed under a
-    <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">
-      Creative Commons Attribution 3.0 Unported License
-    </a> with the addition that any derivatives of a work must retain all attributions to other authors within that work.
-</p>
+![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
-<p>For all derivative works, the files will contain attributions and the license for those works takes precedence over this license.</p>
+Work in this repository by [Christopher Harwood](http://www.christopherharwood.com/) is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-<p>Yes, I feel like a really pretentious dork right now.  Kind of fun, actually.</p>
+Work in this repository by individuals other than Christopher Harwood retain their original license and must be attributed to their original authors.

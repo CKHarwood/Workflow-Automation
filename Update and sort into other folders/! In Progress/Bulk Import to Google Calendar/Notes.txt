@@ -1,4 +1,0 @@
-Still needed:
-
-1. Scripts to convert common event lists (e.g., Academic Calendar) into CSV files
-2. Testing
